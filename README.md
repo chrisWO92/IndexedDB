@@ -1,2 +1,2 @@
 # IndexedDB
-Using IndexedDB Database
+Using IndexedDB Database. Doing CRUD's.
